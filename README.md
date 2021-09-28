@@ -24,4 +24,4 @@
 
 9. Type **Pin** and **Numbers of Bots!** in the **Input-box**
 
-10. Now you can **close *cmd* and the *website*!**
+10. ***Now*** you can **close *cmd* and the *website*!**
