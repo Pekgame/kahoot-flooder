@@ -1,4 +1,7 @@
-**FULL-STEP-BY-STEP-INSTALLATION**
+
+
+## **FULL-STEP-BY-STEP-INSTALLATION**
+
 1. **Download *NodeJs*** from [here](https://nodejs.org/dist/v16.10.0/node-v16.10.0-x64.msi).
 
 2. **Run** the file.
