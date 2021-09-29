@@ -23,12 +23,12 @@
 
 6. **Extract** that file to any location(**Ex. C:/Users/*[YOUR_USERNAME]*/Desktop**).
 
-7. **Click** the file that name **INSTALL.bat**.
+7. **Click** the file that name **`INSTALL.bat`**.
 
-8. **Run** the prank by clicking **Kahoot Flood.cmd** or **Kahoot Flood.exe**.
+8. **Run** the prank by clicking **`Kahoot Flood.cmd`** or **`Kahoot Flood.exe`**.
 
-**Tip**: You can also **create a *shortcut*** of **Kahoot Flood.exe** to your desktop by doing like this!.
-   1. Select and Right click to **Kahoot Flood.exe**.
+**Tip**: You can also **create a *shortcut*** of **`Kahoot Flood.exe`** to your desktop by doing like this!.
+   1. Select and Right click to **`Kahoot Flood.exe`**.
    2. Click on ***Send to>Desktop (create shortcut)***.
    3. Go back to your **Desktop** and ***rename*** the shortcut!
    4. **You can change the icon of that short cut to you own too!**
