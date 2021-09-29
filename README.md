@@ -21,7 +21,7 @@
 
 5. **Download** zip file from [**here**](https://github.com/Pekgame/kahoot-flooder/archive/refs/heads/main.zip).
 
-6. **Exract** that file to any location(**Ex. C:/Users/*[YOUR_USERNAME]*/Desktop**).
+6. **Extract** that file to any location(**Ex. C:/Users/*[YOUR_USERNAME]*/Desktop**).
 
 7. **Click** the file that name **INSTALL.bat**.
 
