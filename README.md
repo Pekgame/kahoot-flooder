@@ -23,7 +23,7 @@
 
 6. **Extract** that file to any location(**Ex. C:/Users/*[YOUR_USERNAME]*/Desktop**).
 
-7. **Click** the file that name **`INSTALL.bat`**.
+7. **Click** the file that name **`INSTALLER.bat`**.
 
 8. **Run** the prank by clicking **`Kahoot Flood.cmd`** or **`Kahoot Flood.exe`**.
 
