@@ -1,6 +1,9 @@
-## **FULL-STEP-BY-STEP-INSTALLATION**
+## FULL-STEP-BY-STEP-INSTALLATION
 
-[**How to install me?**](https://www.youtube.com/watch?v=9aZ6-GfU-Aw)
+<p align="center">
+  <iframe width="900" height="506" src="https://www.youtube.com/embed/9aZ6-GfU-Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<br>
 
 **If still don't know how to install, You can do by using this.**
 
