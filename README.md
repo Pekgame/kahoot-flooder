@@ -1,9 +1,10 @@
 ## FULL-STEP-BY-STEP-INSTALLATION
 
-<p align="center">
-  <iframe width="900" height="506" src="https://www.youtube.com/embed/9aZ6-GfU-Aw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<br>
+**Click to watch then go back to this page again**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9aZ6-GfU-Aw
+" target="_blank"><img src="http://img.youtube.com/vi/9aZ6-GfU-Aw/0.jpg" 
+alt="How to install me" width="240" height="180" border="10" /></a>
 
 **If still don't know how to install, You can do by using this.**
 
